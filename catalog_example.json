@@ -1,0 +1,48 @@
+{
+  "version": "1",
+  "last_updated": "2024-01-01",
+  "books": [
+    {
+      "id": "cal-newport-deep-work-2018",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "year": "2018",
+      "category": "Productivité",
+      "description": "Cal Newport défend l'idée que la capacité à se concentrer sans distraction est une compétence rare et précieuse dans notre économie actuelle. Il propose des méthodes concrètes pour cultiver cette concentration profonde.",
+      "drive_folder_id": "METTEZ_ICI_L_ID_DU_DOSSIER_DRIVE",
+      "cover_url": null,
+      "chapters": [
+        {
+          "index": 0,
+          "title": "Partie 1",
+          "drive_file_id": "ID_DU_FICHIER_MP3_DRIVE",
+          "duration_seconds": 2400
+        },
+        {
+          "index": 1,
+          "title": "Partie 2",
+          "drive_file_id": "ID_DU_FICHIER_MP3_DRIVE_2",
+          "duration_seconds": 2800
+        }
+      ]
+    },
+    {
+      "id": "alexis-botaya-job-reves-2021",
+      "title": "Créez le job de vos rêves et la vie qui va avec",
+      "author": "Alexis Botaya",
+      "year": "2021",
+      "category": "Développement personnel",
+      "description": "Un guide pratique pour construire une carrière et une vie alignées avec vos valeurs profondes.",
+      "drive_folder_id": "METTEZ_ICI_L_ID_DU_DOSSIER_DRIVE",
+      "cover_url": null,
+      "chapters": [
+        {
+          "index": 0,
+          "title": "Chapitre 01",
+          "drive_file_id": "ID_FICHIER_01",
+          "duration_seconds": null
+        }
+      ]
+    }
+  ]
+}
